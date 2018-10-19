@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Data Sciences</title>
-    <link>http://www.gohugo.org/categories/about/</link>
+    <link>/categories/about/</link>
     <description>Recent content in About on Data Sciences</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Oct 2018 07:03:33 -0500</lastBuildDate>
     
-	<atom:link href="http://www.gohugo.org/categories/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://www.gohugo.org/about/about/</link>
+      <link>/about/about/</link>
       <pubDate>Fri, 12 Oct 2018 07:03:33 -0500</pubDate>
       
-      <guid>http://www.gohugo.org/about/about/</guid>
+      <guid>/about/about/</guid>
       <description>This is a about page. This is a about page.This is a about page.This is a about page.This is a about page.This is a about page.This is a about page.This is a about page.This is a about page.This is a about page.
 Data Science is the art and science of transforming raw data into deliverable data products in order to help businesses or government agencies make more informed decisions. The Concentration in Data Science consists of eight major components: Data Visualization, Scientific Methods, Statistical Modeling, Statistical Computing, Real-world Data Applications, Data Consulting, Data Research, and Data Technology.</description>
     </item>

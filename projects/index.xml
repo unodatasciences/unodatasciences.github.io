@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Data Sciences</title>
-    <link>http://www.gohugo.org/projects/</link>
+    <link>/projects/</link>
     <description>Recent content in Projects on Data Sciences</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Oct 2018 07:36:10 -0500</lastBuildDate>
     
-	<atom:link href="http://www.gohugo.org/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Projects</title>
-      <link>http://www.gohugo.org/projects/projects/</link>
+      <link>/projects/projects/</link>
       <pubDate>Fri, 12 Oct 2018 07:36:10 -0500</pubDate>
       
-      <guid>http://www.gohugo.org/projects/projects/</guid>
+      <guid>/projects/projects/</guid>
       <description>Hello, this is projects page. Data Science is the art and science of transforming raw data into deliverable data products in order to help businesses or government agencies make more informed decisions. The Concentration in Data Science consists of eight major components: Data Visualization, Scientific Methods, Statistical Modeling, Statistical Computing, Real-world Data Applications, Data Consulting, Data Research, and Data Technology.
 The Concentration in Data Science prepares students for a job as a Data Scientist, as well as providing a strong background for many other careers.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peoples on Data Sciences</title>
-    <link>http://www.gohugo.org/people/</link>
+    <link>/people/</link>
     <description>Recent content in Peoples on Data Sciences</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Oct 2018 07:22:23 -0500</lastBuildDate>
     
-	<atom:link href="http://www.gohugo.org/people/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>People</title>
-      <link>http://www.gohugo.org/people/people/</link>
+      <link>/people/people/</link>
       <pubDate>Fri, 12 Oct 2018 07:22:23 -0500</pubDate>
       
-      <guid>http://www.gohugo.org/people/people/</guid>
+      <guid>/people/people/</guid>
       <description>hello, this is the people page. Data Science is the art and science of transforming raw data into deliverable data products in order to help businesses or government agencies make more informed decisions. The Concentration in Data Science consists of eight major components: Data Visualization, Scientific Methods, Statistical Modeling, Statistical Computing, Real-world Data Applications, Data Consulting, Data Research, and Data Technology.
 The Concentration in Data Science prepares students for a job as a Data Scientist, as well as providing a strong background for many other careers.</description>
     </item>
