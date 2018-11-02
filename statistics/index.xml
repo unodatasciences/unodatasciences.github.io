@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statistics on Data Sciences</title>
-    <link>/statistics/</link>
+    <link>https://unodatasciences.github.io/statistics/</link>
     <description>Recent content in Statistics on Data Sciences</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 11 Sep 2018 22:33:28 -0500</lastBuildDate>
     
-	<atom:link href="/statistics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://unodatasciences.github.io/statistics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Statistics</title>
-      <link>/statistics/statics/</link>
+      <link>https://unodatasciences.github.io/statistics/statics/</link>
       <pubDate>Tue, 11 Sep 2018 22:33:28 -0500</pubDate>
       
-      <guid>/statistics/statics/</guid>
+      <guid>https://unodatasciences.github.io/statistics/statics/</guid>
       <description>Introduction The Statistics program offers courses emphasizing the practical aspect of probability and statistics. The program serves the needs of future statisticians in science, industry, business, and government. In addition, it provides the necessary background and stimulation for graduate study. It is also a crucial component of Actuarial Sciences.
 Concentrations in Data Science The Department of Mathematics offers a concentration in Data Science for undergraduate students pursuing a BA or BS degree, as well as for graduate students pursuing a MS degree.</description>
     </item>

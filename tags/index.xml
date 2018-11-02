@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Data Sciences</title>
-    <link>/tags/</link>
+    <link>https://unodatasciences.github.io/tags/</link>
     <description>Recent content in Tags on Data Sciences</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 11 Sep 2018 22:33:13 -0500</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://unodatasciences.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data</title>
-      <link>/tags/data/</link>
+      <link>https://unodatasciences.github.io/tags/data/</link>
       <pubDate>Tue, 11 Sep 2018 22:33:13 -0500</pubDate>
       
-      <guid>/tags/data/</guid>
+      <guid>https://unodatasciences.github.io/tags/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Science</title>
-      <link>/tags/data-science/</link>
+      <link>https://unodatasciences.github.io/tags/data-science/</link>
       <pubDate>Fri, 12 Oct 2018 07:22:23 -0500</pubDate>
       
-      <guid>/tags/data-science/</guid>
+      <guid>https://unodatasciences.github.io/tags/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Math Department</title>
-      <link>/tags/math-department/</link>
+      <link>https://unodatasciences.github.io/tags/math-department/</link>
       <pubDate>Fri, 12 Oct 2018 07:22:23 -0500</pubDate>
       
-      <guid>/tags/math-department/</guid>
+      <guid>https://unodatasciences.github.io/tags/math-department/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Science</title>
-      <link>/tags/science/</link>
+      <link>https://unodatasciences.github.io/tags/science/</link>
       <pubDate>Tue, 11 Sep 2018 22:33:13 -0500</pubDate>
       
-      <guid>/tags/science/</guid>
+      <guid>https://unodatasciences.github.io/tags/science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Services</title>
-      <link>/tags/services/</link>
+      <link>https://unodatasciences.github.io/tags/services/</link>
       <pubDate>Fri, 12 Oct 2018 07:27:44 -0500</pubDate>
       
-      <guid>/tags/services/</guid>
+      <guid>https://unodatasciences.github.io/tags/services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Statistics</title>
-      <link>/tags/statistics/</link>
+      <link>https://unodatasciences.github.io/tags/statistics/</link>
       <pubDate>Fri, 12 Oct 2018 07:22:23 -0500</pubDate>
       
-      <guid>/tags/statistics/</guid>
+      <guid>https://unodatasciences.github.io/tags/statistics/</guid>
       <description></description>
     </item>
     
