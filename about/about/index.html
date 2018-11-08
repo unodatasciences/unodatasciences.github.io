@@ -7,7 +7,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="alternate" href="/index.xml" type="application/rss+xml" title="Data Sciences">
 		<link rel="icon" href="https://unodatasciences.github.io/favicon.ico">
-		<title>About - Data Sciences</title>
+		<title>Consulting Lab - Data Sciences</title>
 		
 		<link rel="stylesheet" href="https://unodatasciences.github.io/css/highlight/default.css">
 		<link rel="stylesheet" href="https://unodatasciences.github.io/css/bootstrap.min.css">
@@ -46,7 +46,7 @@
 			<li class="dropdown">
 				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Consulting Lab<span class="caret"></span></a>
 				<ul class="dropdown-menu">
-					<a class="dropdown-item" href="https://unodatasciences.github.io/about/about">About</a><br>
+					<a class="dropdown-item" href="https://unodatasciences.github.io/about/about">Consulting Lab</a><br>
 					<div class="dropdown-divider"></div>
 					<a class="dropdown-item" href="https://unodatasciences.github.io/projects/projects">Projects</a><br>
 					<a class="dropdown-item" href="https://unodatasciences.github.io/people/people">People</a><br>
@@ -70,7 +70,7 @@
 		<main role="main">
 			<article>
 				<a id="title"></a>
-				<h1 class="doc-entry-title">About</h1>
+				<h1 class="doc-entry-title">Consulting Lab</h1>
 				<div class="doc-entry-meta">
 					
 				</div>
@@ -79,17 +79,43 @@
 
 <hr />
 
-<h3 id="this-is-a-about-page">This is a about page.</h3>
+<h3 id="about-us">About Us</h3>
 
-<p>This is a about page.This is a about page.This is a about page.This is a about page.This is a about page.This is a about page.This is a about page.This is a about page.This is a about page.</p>
+<p>Consulting Lab is committed to providing UNO faculty, staff, and students with free consultation on research and survey design, data collection and management, statistical analysis, and evaluation. Consultants have extensive training in applied statistics and research methods, and can offer advice for both quantitative and qualitative research.  The Consulting Lab also strives to provide appropriate introductory training with common data analysis software.</p>
 
 <hr />
 
-<p>Data Science is the art and science of transforming raw data into deliverable data products in order to help businesses or government agencies make more informed decisions. The Concentration in Data Science consists of eight major components: Data Visualization, Scientific Methods, Statistical Modeling, Statistical Computing, Real-world Data Applications, Data Consulting, Data Research, and Data Technology.</p>
+<h3 id="consulting-services">Consulting Services</h3>
 
-<p>The Concentration in Data Science prepares students for a job as a Data Scientist, as well as providing a strong background for many other careers.</p>
+<p>Consulting services include advice and training:</p>
 
-<p>Because Data Science is a rapidly expanding field, creating a high demand for Data Scientists, the Department of Mathematics is committed to developing partnerships with the local business community, not only to assist with their data analysis needs, but to demonstrate the value of our Math majors.</p>
+<p>Designing studies</br>
+Designing surveys</br>
+Selecting methods of data collection</br>
+Selecting methods of data storage and management</br>
+Selecting and implementing statistical analyses</p>
+
+<hr />
+
+<p><img src="https://www.unomaha.edu/college-of-arts-and-sciences/mathematics/_files/images/datasciencecircle.jpg" alt="Hugo Agency Theme screenshot" /></p>
+
+<!---<figure>
+  <img src="/static/img/datasciencircle.jpg"/>
+</figure>
+
+
+{{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get 0)) }}
+{{ $command := .Get 1 }}
+{{ $options := .Get 2 }}
+{{ if eq $command "Fit"}}
+{{ .Scratch.Set "image" ($original.Fit $options) }}
+{{ else if eq $command "Resize"}}
+{{ .Scratch.Set "image" ($original.Resize $options) }}
+{{ else if eq $command "Fill"}}
+{{ .Scratch.Set "image" ($original.Fill $options) }}
+{{ else }}
+{{ errorf "Invalid image processing command: Must be one of Fit, Fill or Resize."}}
+{{ end }}--->
 
 				</section>
 			</article>
