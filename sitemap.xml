@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://unodatasciences.github.io/direction-map/direction_map/</loc>
+    <loc>https://unodatasciences.github.io/projects/projects/</loc>
     <lastmod>2018-10-12T07:36:10-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/projects/projects/</loc>
+    <loc>https://unodatasciences.github.io/direction-map/direction_map/</loc>
     <lastmod>2018-10-12T07:36:10-05:00</lastmod>
   </url>
   
@@ -171,6 +171,10 @@
     <loc>https://unodatasciences.github.io/tags/</loc>
     <lastmod>2018-09-11T22:33:13-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://unodatasciences.github.io/projects/ollas/</loc>
   </url>
   
 </urlset>
