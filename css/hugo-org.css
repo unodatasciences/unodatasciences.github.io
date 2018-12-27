@@ -3,7 +3,7 @@
  */
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue";
   color: #555;
   padding-top: 70px;
   padding-bottom: 30px;
@@ -192,6 +192,12 @@ h2, .h2 {
 .nav-list [class*=" icon-"] {
   margin-right: 2px;
 }
+.nav-list [class^="dropdown-item"]{
+  background-color: black;
+  color: red;
+}
+
+
 
 .nav-list .divider {
   *width: 100%;
