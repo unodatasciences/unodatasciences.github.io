@@ -223,7 +223,3 @@ h2, .h2 {
 .nav li + .nav-header {
   margin-top: 9px;
 }
-
-.dropdown {
-  color: red;
-}
