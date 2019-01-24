@@ -27,6 +27,11 @@ h2, .h2 {
   border-bottom: 1px solid #eee;
 }
 
+.dropdown-item {
+  margin-top: 100;
+  color: #333;
+}
+
 /*
  * Override Bootstrap's default container.
  */
@@ -192,12 +197,6 @@ h2, .h2 {
 .nav-list [class*=" icon-"] {
   margin-right: 2px;
 }
-.nav-list [class^="dropdown-item"]{
-  background-color: black;
-  color: red;
-}
-
-
 
 .nav-list .divider {
   *width: 100%;
@@ -218,6 +217,13 @@ h2, .h2 {
   color: #999;
   text-shadow: 0 1px 0 rgba(255,255,255,.5);
   text-transform: uppercase;
+}
+
+.dropdown-menu {
+  background-color: #428bca;
+  color: #428bca;
+}
+
 }
 // Space them out when they follow another list item (link)
 .nav li + .nav-header {
