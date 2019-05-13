@@ -17,7 +17,7 @@ h5, .h5,
 h6, .h6 {
   margin-top: 0;
   padding-top: 10px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
   font-weight: normal;
   color: #333;
 }
@@ -67,7 +67,6 @@ h2, .h2 {
 .doc-main pre code {
   font-size: 16px;
 }
-
 /* List items */
 .doc-list-header {
 }
@@ -76,10 +75,15 @@ h2, .h2 {
 }
 .doc-entry-title {
   color: #666;
+  text-align: center;
+  padding-left: 10px;
+  text-align: center;
+
+
 }
 .doc-entry-meta {
   font-style: italic;
-  text-align: right;
+  text-align: center;
   color: #999;
   margin-bottom: 10px;
 }
