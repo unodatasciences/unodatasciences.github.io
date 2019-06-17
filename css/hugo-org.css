@@ -1,7 +1,7 @@
 /*
  * Globals
  */
-
+html, body{overflow:hidden;}
 body {
   font-family: "Helvetica Neue";
   color: #555;
