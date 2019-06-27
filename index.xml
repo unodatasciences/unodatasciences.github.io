@@ -17,11 +17,11 @@
       <pubDate>Fri, 12 Oct 2018 07:36:10 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/direction-map/direction_map/</guid>
-      <description>   .map_canvas { overflow:hidden; background:none!important; height:370px; width:100%; }   UNO DATA SCIENCES  Data and decision sciences Durham Science Center 203
+      <description>   .map_canvas { overflow:hidden; background:none!important; height:370px; width:100%; }   UNO DATA SCIENCES Data and Decision Sciences Durham Science Center 203
 6001 Dodge Street
 Omaha, NE 68182-0243
 Phone: 402-554-3430
-E-mail:unomathematics@unomaha.edu  Go to Google Maps    </description>
+E-mail:unomathematics@unomaha.edu  Go to Google Maps   </description>
     </item>
     
     <item>
@@ -30,7 +30,7 @@ E-mail:unomathematics@unomaha.edu  Go to Google Maps    </description>
       <pubDate>Fri, 12 Oct 2018 07:36:10 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/projects/projects/</guid>
-      <description> Featured Projects    OLLAS
+      <description> Featured Projects     OLLAS
    VISUAL ANALYSIS
    HEALTH INSURANCE
    </description>
@@ -52,8 +52,8 @@ E-mail:unomathematics@unomaha.edu  Go to Google Maps    </description>
       <pubDate>Fri, 12 Oct 2018 07:27:44 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/services/data_modeling/</guid>
-      <description>We can do data modelling but our services are not limited.We also provide
-  Mode metrics preparation Model selection Hyperparameter tuning Model diagnostics Prediction Traditional and statistical modeling including regression Machine learning Optimization      </description>
+      <description>We can do data modeling ,but our services are not limited.We also provide
+  Mode metrics preparation. Model selection. Hyperparameter tuning. Model diagnostics. Prediction. Traditional and statistical modeling including regression. Machine learning. Optimization.      </description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@ E-mail:unomathematics@unomaha.edu  Go to Google Maps    </description>
       
       <guid>https://unodatasciences.github.io/services/data_visualization/</guid>
       <description>We can make
-  Dashboard with customized design Interactive graphics Reproducible report      </description>
+  Dashboard with customized design. Interactive graphics. Reproducible report.      </description>
     </item>
     
     <item>
@@ -81,7 +81,7 @@ E-mail:unomathematics@unomaha.edu  Go to Google Maps    </description>
       <pubDate>Fri, 12 Oct 2018 07:27:44 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/services/services/</guid>
-      <description>The services provided by UNO data Sciences group are Data Modeling We create data models at different levels to provide a comprehensive data architecture roadmap
+      <description>The services provided by UNO Data Sciences group are  Data Modeling We create data models at different levels to provide a comprehensive data architectural roadmap
    Data Wrangling We provide a sophisticated solution for cleaning and merging messy data sets for better analysis.
    Data Visualization We can transform your data into rich visuals that tells a &#34;story&#34;,making complex data easier to grasp.
    Experimental design We can design experiments or survey based on your need and advise outcome based on the survey.</description>
@@ -127,7 +127,7 @@ Read profile    Fabio Torres Vitor,PhD Assistant Professor</description>
       <pubDate>Tue, 11 Sep 2018 22:33:52 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/operations-research/operations_research/</guid>
-      <description>Introduction Operations Research is the application of advanced analytical methods to enable better decision making. A plethora of problems may be solved using Operations Research; among these are  determining the route a delivery truck should take in order to make all deliveries while traveling the fewest number of miles determining the best location for a new facility such as a fire station  scheduling airline flights and crew  determining the optimal distribution of bicycles in a bike sharing system.</description>
+      <description>Introduction Operations Research is the application of advanced analytical methods to enable better decision making. A plethora of problems may be solved using Operations Research; among these are  Determining the route a delivery truck should take in order to make all deliveries while traveling the fewest number of miles. Determining the best location for a new facility such as a fire station.  Scheduling airline flights and crew.  Determining the optimal distribution of bicycles in a bike sharing system.</description>
     </item>
     
     <item>
@@ -136,7 +136,7 @@ Read profile    Fabio Torres Vitor,PhD Assistant Professor</description>
       <pubDate>Tue, 11 Sep 2018 22:33:28 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/statistics/statics/</guid>
-      <description>Introduction  Statistics is used in a many fields, including biology, sociology, psychology, medicine, economics, quality control, and sports. This diversity, along with the growing need for people with statistical knowledge makes it an attractive choice for mathematics students. Concentrations in Statistics This concentration is recommended for students interested in the theoretical and practical aspects of Statistics, particularly those students who are interested in pursuing graduate study in Statistics or Biostatistics.</description>
+      <description>Introduction  Statistics is used in many fields, including biology, sociology, psychology, medicine, economics, quality control, and sports. This diversity, along with the growing need for people with statistical knowledge makes it an attractive choice for mathematics students. Concentrations in Statistics This concentration is recommended for students interested in the theoretical and practical aspects of Statistics, particularly those students who are interested in pursuing graduate study in Statistics or Biostatistics.  Affiliated Faulty  Steve From,PhD Andrew W.</description>
     </item>
     
     <item>
@@ -145,16 +145,7 @@ Read profile    Fabio Torres Vitor,PhD Assistant Professor</description>
       <pubDate>Tue, 11 Sep 2018 22:33:13 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/data-scicence/data_science/</guid>
-      <description>What is Data Science? Data Science is the art and science of transforming raw data into deliverable data products in order to help businesses or government agencies make more informed decisions. The Concentration in Data Science consists of eight major components: Data Visualization, Scientific Methods, Statistical Modeling, Statistical Computing, Real-world Data Applications, Data Consulting, Data Research, and Data Technology. The following is a brief description of each component and its relevance and importance to our program.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://unodatasciences.github.io/direction-map/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://unodatasciences.github.io/direction-map/contact/</guid>
-      <description>.header {color: #36A0FF;font-size: 27px;padding: 10px;}.bigicon {font-size: 35px;color: #36A0FF;}Contact usSubmit</description>
+      <description>What is Data Science? Data Science is the art and science of transforming raw data into deliverable data products, in order to help businesses or government agencies to make more informed decisions. The Concentration in Data Science consists of eight major components: Data Visualization, Scientific Methods, Statistical Modeling, Statistical Computing, Real-world Data Applications, Data Consulting, Data Research, and Data Technology. The following is a brief description of each component and its relevance and importance to our program.</description>
     </item>
     
     <item>
