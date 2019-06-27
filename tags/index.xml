@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Data Sciences</title>
+    <title>Tags on Home</title>
     <link>https://unodatasciences.github.io/tags/</link>
-    <description>Recent content in Tags on Data Sciences</description>
+    <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Sep 2018 22:33:13 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 12 Oct 2018 07:27:44 -0500</lastBuildDate>
     
 	<atom:link href="https://unodatasciences.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://unodatasciences.github.io/tags/contact-us/</link>
+      <pubDate>Fri, 12 Oct 2018 07:27:44 -0500</pubDate>
+      
+      <guid>https://unodatasciences.github.io/tags/contact-us/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data</title>

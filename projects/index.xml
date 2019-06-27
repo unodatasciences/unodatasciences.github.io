@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Data Sciences</title>
+    <title>Projects on Home</title>
     <link>https://unodatasciences.github.io/projects/</link>
-    <description>Recent content in Projects on Data Sciences</description>
+    <description>Recent content in Projects on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Oct 2018 07:36:10 -0500</lastBuildDate>
@@ -12,13 +12,15 @@
     
     
     <item>
-      <title></title>
+      <title>Projects</title>
       <link>https://unodatasciences.github.io/projects/projects/</link>
       <pubDate>Fri, 12 Oct 2018 07:36:10 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/projects/projects/</guid>
-      <description> About our Work Research at the Consulting Lab explores novel uses for large-scale heterogeneous data to understand the behavior of individuals, firms, societies and economies.
-Featured Projects       OLLAS VISUAL ANALYSIS HEALTH INSURANCE OLLAS--   </description>
+      <description> Featured Projects    OLLAS
+   VISUAL ANALYSIS
+   HEALTH INSURANCE
+   </description>
     </item>
     
     <item>
@@ -27,8 +29,7 @@ Featured Projects       OLLAS VISUAL ANALYSIS HEALTH INSURANCE OLLAS--   </descr
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unodatasciences.github.io/projects/ollas/</guid>
-      <description>img {float:left;} --   A Demographic Portrait of Latino Population Growth and Past and Potential Political Engagement
-Project Description This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.</description>
+      <description>img {float:left;} --        A Demographic Portrait of Latino Population Growth and Past and Potential Political Engagement    Project Description  This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.</description>
     </item>
     
     <item>
@@ -37,9 +38,7 @@ Project Description This part is for the Description of the project.This part is
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unodatasciences.github.io/projects/hi/</guid>
-      <description>HEALTH INSURANCE IN NEBRASKA
-Project Description This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.
-Description of Center for Public Affairs Research College of Public Affairs and Community Service (CPAR) is the lead agency for the Nebraska State Data Center, as a result, we have access to and the ability to organize and interpret Census data for your particular needs.</description>
+      <description>HEALTH INSURANCE IN NEBRASKA    Project Description This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.     Description of Center for Public Affairs Research College of Public Affairs and Community Service (CPAR) is the lead agency for the Nebraska State Data Center, as a result, we have access to and the ability to organize and interpret Census data for your particular needs.</description>
     </item>
     
     <item>
@@ -48,9 +47,7 @@ Description of Center for Public Affairs Research College of Public Affairs and 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unodatasciences.github.io/projects/va/</guid>
-      <description>Visual Analysis on Short Term Memory
-Project Description This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.
-Description of The Department of Psychology and Neuroscience The Department of Psychology and Neuroscience at the University of Colorado Boulder is to strive for excellence in our research, in our training of graduate students, and in our teaching of undergraduates.</description>
+      <description>Visual Analysis on Short Term Memory    Project Description  This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.    Description of The Department of Psychology and Neuroscience The Department of Psychology and Neuroscience at the University of Colorado Boulder is to strive for excellence in our research, in our training of graduate students, and in our teaching of undergraduates.</description>
     </item>
     
   </channel>

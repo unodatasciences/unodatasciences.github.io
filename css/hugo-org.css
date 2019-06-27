@@ -1,7 +1,7 @@
 /*
  * Globals
  */
-html, body{overflow:hidden;}
+
 body {
   font-family: "Helvetica Neue";
   color: #555;
@@ -38,7 +38,9 @@ h2, .h2 {
 
 @media (min-width: 1200px) {
   .container {
-    width: 970px;
+    width: 600px;
+    font-family:Arial;
+    font-size: 18px;
   }
 }
 
@@ -47,17 +49,23 @@ h2, .h2 {
  */
 
 .doc-main {
-  font-size: 18px;
+  
   line-height: 1.5;
+ 
+  font-family:Arial;
+    font-size: 18px;
 }
 
 .doc-main img {
   max-width: 80%;
   height: auto;
+
 }
 
 .doc-main p {
   word-wrap: break-word
+  font-family:Arial;
+    font-size: 18px;
 }
 
 .doc-main pre {
@@ -76,8 +84,10 @@ h2, .h2 {
 .doc-entry-title {
   color: #666;
   text-align: center;
-  padding-left: 10px;
+  padding-left: 20px;
   text-align: center;
+  font-family:Arial;
+    font-size: 18px;
 
 
 }
@@ -232,4 +242,14 @@ h2, .h2 {
 // Space them out when they follow another list item (link)
 .nav li + .nav-header {
   margin-top: 9px;
+}
+.img-center1{
+    display: block;
+     width: 100%;
+    height: auto;
+}
+#image_1{
+    background-color:#37b8c542;
+    background-size: cover;
+    background-repeat: no-repeat;
 }

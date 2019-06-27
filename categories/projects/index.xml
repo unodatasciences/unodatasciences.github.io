@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Data Sciences</title>
+    <title>Projects on Home</title>
     <link>https://unodatasciences.github.io/categories/projects/</link>
-    <description>Recent content in Projects on Data Sciences</description>
+    <description>Recent content in Projects on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Oct 2018 07:36:10 -0500</lastBuildDate>
@@ -12,13 +12,15 @@
     
     
     <item>
-      <title></title>
+      <title>Projects</title>
       <link>https://unodatasciences.github.io/projects/projects/</link>
       <pubDate>Fri, 12 Oct 2018 07:36:10 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/projects/projects/</guid>
-      <description> About our Work Research at the Consulting Lab explores novel uses for large-scale heterogeneous data to understand the behavior of individuals, firms, societies and economies.
-Featured Projects       OLLAS VISUAL ANALYSIS HEALTH INSURANCE OLLAS--   </description>
+      <description> Featured Projects    OLLAS
+   VISUAL ANALYSIS
+   HEALTH INSURANCE
+   </description>
     </item>
     
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Data Sciences</title>
+    <title>About on Home</title>
     <link>https://unodatasciences.github.io/categories/about/</link>
-    <description>Recent content in About on Data Sciences</description>
+    <description>Recent content in About on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Oct 2018 07:03:33 -0500</lastBuildDate>
@@ -17,8 +17,8 @@
       <pubDate>Fri, 12 Oct 2018 07:03:33 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/about/about/</guid>
-      <description>About Us Consulting Lab is committed to providing UNO faculty, staff, and students with free consultation on research and survey design, data collection and management, statistical analysis, and evaluation. Consultants have extensive training in applied statistics and research methods, and can offer advice for both quantitative and qualitative research. The Consulting Lab also strives to provide appropriate introductory training with common data analysis software.
-Consulting Services Consulting services include advice and training:</description>
+      <description>About Us Consulting Lab is committed to providing UNO faculty, staff, and students with consultation on research and survey design, data collection and management, statistical analysis, and evaluation. Consultants have extensive training in applied statistics and research methods, and can offer advice for both quantitative and qualitative research. The Consulting Lab also strives to provide appropriate introductory training with common data analysis software.
+   Consulting Services Consulting services include advice and training:</description>
     </item>
     
   </channel>

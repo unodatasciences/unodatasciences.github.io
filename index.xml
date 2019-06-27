@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Sciences</title>
+    <title>Home</title>
     <link>https://unodatasciences.github.io/</link>
-    <description>Recent content on Data Sciences</description>
+    <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 12 Oct 2018 07:36:10 -0500</lastBuildDate>
@@ -12,23 +12,67 @@
     
     
     <item>
-      <title></title>
-      <link>https://unodatasciences.github.io/projects/projects/</link>
-      <pubDate>Fri, 12 Oct 2018 07:36:10 -0500</pubDate>
-      
-      <guid>https://unodatasciences.github.io/projects/projects/</guid>
-      <description> About our Work Research at the Consulting Lab explores novel uses for large-scale heterogeneous data to understand the behavior of individuals, firms, societies and economies.
-Featured Projects       OLLAS VISUAL ANALYSIS HEALTH INSURANCE OLLAS--   </description>
-    </item>
-    
-    <item>
       <title>Direction Map</title>
       <link>https://unodatasciences.github.io/direction-map/direction_map/</link>
       <pubDate>Fri, 12 Oct 2018 07:36:10 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/direction-map/direction_map/</guid>
-      <description>Hello, this is Direction Map page. Data Science is the art and science of transforming raw data into deliverable data products in order to help businesses or government agencies make more informed decisions. The Concentration in Data Science consists of eight major components: Data Visualization, Scientific Methods, Statistical Modeling, Statistical Computing, Real-world Data Applications, Data Consulting, Data Research, and Data Technology.
-The Concentration in Data Science prepares students for a job as a Data Scientist, as well as providing a strong background for many other careers.</description>
+      <description>   .map_canvas { overflow:hidden; background:none!important; height:370px; width:100%; }   UNO DATA SCIENCES  Data and decision sciences Durham Science Center 203
+6001 Dodge Street
+Omaha, NE 68182-0243
+Phone: 402-554-3430
+E-mail:unomathematics@unomaha.edu  Go to Google Maps    </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://unodatasciences.github.io/projects/projects/</link>
+      <pubDate>Fri, 12 Oct 2018 07:36:10 -0500</pubDate>
+      
+      <guid>https://unodatasciences.github.io/projects/projects/</guid>
+      <description> Featured Projects    OLLAS
+   VISUAL ANALYSIS
+   HEALTH INSURANCE
+   </description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://unodatasciences.github.io/contact_us/contact_us/</link>
+      <pubDate>Fri, 12 Oct 2018 07:27:44 -0500</pubDate>
+      
+      <guid>https://unodatasciences.github.io/contact_us/contact_us/</guid>
+      <description>Want to touch base with us, or leave us a message:
+           Thank you.Your Request has been submitted!!  function postToGoogle() { var field1 = $(&#34;#nameField&#34;).val(); var field2 = $(&#34;#emailField&#34;).val(); var field3 = $(&#34;#mobField&#34;).val(); var field4 = $(&#34;#msgField&#34;).val(); if(field1 == &#34;&#34;){ alert(&#39;Please Fill Your Name&#39;); document.getElementById(&#34;nameField&#34;).focus(); return false; } if(field2 == &#34;&#34;){ alert(&#39;Please Fill Your Email&#39;); document.getElementById(&#34;emailField&#34;).focus(); return false; } if(field3 == &#34;</description>
+    </item>
+    
+    <item>
+      <title>Data Modeling</title>
+      <link>https://unodatasciences.github.io/services/data_modeling/</link>
+      <pubDate>Fri, 12 Oct 2018 07:27:44 -0500</pubDate>
+      
+      <guid>https://unodatasciences.github.io/services/data_modeling/</guid>
+      <description>We can do data modelling but our services are not limited.We also provide
+  Mode metrics preparation Model selection Hyperparameter tuning Model diagnostics Prediction Traditional and statistical modeling including regression Machine learning Optimization      </description>
+    </item>
+    
+    <item>
+      <title>Data Visualization</title>
+      <link>https://unodatasciences.github.io/services/data_visualization/</link>
+      <pubDate>Fri, 12 Oct 2018 07:27:44 -0500</pubDate>
+      
+      <guid>https://unodatasciences.github.io/services/data_visualization/</guid>
+      <description>We can make
+  Dashboard with customized design Interactive graphics Reproducible report      </description>
+    </item>
+    
+    <item>
+      <title>Data Wrangling</title>
+      <link>https://unodatasciences.github.io/services/data_wrangling/</link>
+      <pubDate>Fri, 12 Oct 2018 07:27:44 -0500</pubDate>
+      
+      <guid>https://unodatasciences.github.io/services/data_wrangling/</guid>
+      <description>We can work with different sources of data and different types of data.</description>
     </item>
     
     <item>
@@ -37,33 +81,34 @@ The Concentration in Data Science prepares students for a job as a Data Scientis
       <pubDate>Fri, 12 Oct 2018 07:27:44 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/services/services/</guid>
-      <description>This is Services page. Data Science is the art and science of transforming raw data into deliverable data products in order to help businesses or government agencies make more informed decisions. The Concentration in Data Science consists of eight major components: Data Visualization, Scientific Methods, Statistical Modeling, Statistical Computing, Real-world Data Applications, Data Consulting, Data Research, and Data Technology.
-The Concentration in Data Science prepares students for a job as a Data Scientist, as well as providing a strong background for many other careers.</description>
+      <description>The services provided by UNO data Sciences group are Data Modeling We create data models at different levels to provide a comprehensive data architecture roadmap
+   Data Wrangling We provide a sophisticated solution for cleaning and merging messy data sets for better analysis.
+   Data Visualization We can transform your data into rich visuals that tells a &#34;story&#34;,making complex data easier to grasp.
+   Experimental design We can design experiments or survey based on your need and advise outcome based on the survey.</description>
     </item>
     
     <item>
-      <title>Faculty Directory</title>
+      <title>Our Team</title>
       <link>https://unodatasciences.github.io/people/people/</link>
       <pubDate>Fri, 12 Oct 2018 07:22:23 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/people/people/</guid>
-      <description>       Xiaoyue Cheng , PhD
-Assistant Professor
+      <description>Xiaoyue Cheng , PhD Assistant Professor
 DSC 225 402.554.2848
 xycheng@unomaha.edu
-Read profile  Betty N. Love, PhD
-Associate Professor
+Read profile    Steve From,PhD Professor
+DSC 236 402.554.3622
+sfrom@unomaha.edu
+Read profile    Betty N. Love, PhD Professor
 DSC 224 402.554.2831
 blove@unomaha.edu
-Read profile  Mahbubul Majumder, PhD
-Assistant Professor
+Read profile      Mahbubul Majumder, PhD Associate Professor
 DSC 238 402.554.2734
 mmajumder@unomaha.edu
-Read profile  Andrew W. Swift, DSc
-Associate Professor
+Read profile    Andrew W. Swift, DSc Associate Professor
 DSC 237 402.554.3637
 aswift@unomaha.edu
-Read profile   </description>
+Read profile    Fabio Torres Vitor,PhD Assistant Professor</description>
     </item>
     
     <item>
@@ -72,8 +117,8 @@ Read profile   </description>
       <pubDate>Fri, 12 Oct 2018 07:03:33 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/about/about/</guid>
-      <description>About Us Consulting Lab is committed to providing UNO faculty, staff, and students with free consultation on research and survey design, data collection and management, statistical analysis, and evaluation. Consultants have extensive training in applied statistics and research methods, and can offer advice for both quantitative and qualitative research. The Consulting Lab also strives to provide appropriate introductory training with common data analysis software.
-Consulting Services Consulting services include advice and training:</description>
+      <description>About Us Consulting Lab is committed to providing UNO faculty, staff, and students with consultation on research and survey design, data collection and management, statistical analysis, and evaluation. Consultants have extensive training in applied statistics and research methods, and can offer advice for both quantitative and qualitative research. The Consulting Lab also strives to provide appropriate introductory training with common data analysis software.
+   Consulting Services Consulting services include advice and training:</description>
     </item>
     
     <item>
@@ -82,8 +127,7 @@ Consulting Services Consulting services include advice and training:</descriptio
       <pubDate>Tue, 11 Sep 2018 22:33:52 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/operations-research/operations_research/</guid>
-      <description>Introduction The department has several researchers in statistics and operations research. We plan to develop research problems in data science in collaboration with the local community. This will strengthen the academic research program and lay the foundation for a possible future doctorate in Data Science.
-Concentrations in Data Science The Department of Mathematics offers a concentration in Data Science for undergraduate students pursuing a BA or BS degree, as well as for graduate students pursuing a MS degree.</description>
+      <description>Introduction Operations Research is the application of advanced analytical methods to enable better decision making. A plethora of problems may be solved using Operations Research; among these are  determining the route a delivery truck should take in order to make all deliveries while traveling the fewest number of miles determining the best location for a new facility such as a fire station  scheduling airline flights and crew  determining the optimal distribution of bicycles in a bike sharing system.</description>
     </item>
     
     <item>
@@ -92,8 +136,7 @@ Concentrations in Data Science The Department of Mathematics offers a concentrat
       <pubDate>Tue, 11 Sep 2018 22:33:28 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/statistics/statics/</guid>
-      <description>Introduction The Statistics program offers courses emphasizing the practical aspect of probability and statistics. The program serves the needs of future statisticians in science, industry, business, and government. In addition, it provides the necessary background and stimulation for graduate study. It is also a crucial component of Actuarial Sciences.
-Concentrations in Data Science The Department of Mathematics offers a concentration in Data Science for undergraduate students pursuing a BA or BS degree, as well as for graduate students pursuing a MS degree.</description>
+      <description>Introduction  Statistics is used in a many fields, including biology, sociology, psychology, medicine, economics, quality control, and sports. This diversity, along with the growing need for people with statistical knowledge makes it an attractive choice for mathematics students. Concentrations in Statistics This concentration is recommended for students interested in the theoretical and practical aspects of Statistics, particularly those students who are interested in pursuing graduate study in Statistics or Biostatistics.</description>
     </item>
     
     <item>
@@ -102,8 +145,16 @@ Concentrations in Data Science The Department of Mathematics offers a concentrat
       <pubDate>Tue, 11 Sep 2018 22:33:13 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/data-scicence/data_science/</guid>
-      <description>What is Data Science? Data Science is the art and science of transforming raw data into deliverable data products in order to help businesses or government agencies make more informed decisions. The Concentration in Data Science consists of eight major components: Data Visualization, Scientific Methods, Statistical Modeling, Statistical Computing, Real-world Data Applications, Data Consulting, Data Research, and Data Technology.
-The Concentration in Data Science prepares students for a job as a Data Scientist, as well as providing a strong background for many other careers.</description>
+      <description>What is Data Science? Data Science is the art and science of transforming raw data into deliverable data products in order to help businesses or government agencies make more informed decisions. The Concentration in Data Science consists of eight major components: Data Visualization, Scientific Methods, Statistical Modeling, Statistical Computing, Real-world Data Applications, Data Consulting, Data Research, and Data Technology. The following is a brief description of each component and its relevance and importance to our program.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://unodatasciences.github.io/direction-map/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://unodatasciences.github.io/direction-map/contact/</guid>
+      <description>.header {color: #36A0FF;font-size: 27px;padding: 10px;}.bigicon {font-size: 35px;color: #36A0FF;}Contact usSubmit</description>
     </item>
     
     <item>
@@ -112,8 +163,7 @@ The Concentration in Data Science prepares students for a job as a Data Scientis
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unodatasciences.github.io/projects/ollas/</guid>
-      <description>img {float:left;} --   A Demographic Portrait of Latino Population Growth and Past and Potential Political Engagement
-Project Description This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.</description>
+      <description>img {float:left;} --        A Demographic Portrait of Latino Population Growth and Past and Potential Political Engagement    Project Description  This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.</description>
     </item>
     
     <item>
@@ -122,9 +172,7 @@ Project Description This part is for the Description of the project.This part is
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unodatasciences.github.io/projects/hi/</guid>
-      <description>HEALTH INSURANCE IN NEBRASKA
-Project Description This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.
-Description of Center for Public Affairs Research College of Public Affairs and Community Service (CPAR) is the lead agency for the Nebraska State Data Center, as a result, we have access to and the ability to organize and interpret Census data for your particular needs.</description>
+      <description>HEALTH INSURANCE IN NEBRASKA    Project Description This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.     Description of Center for Public Affairs Research College of Public Affairs and Community Service (CPAR) is the lead agency for the Nebraska State Data Center, as a result, we have access to and the ability to organize and interpret Census data for your particular needs.</description>
     </item>
     
     <item>
@@ -133,9 +181,7 @@ Description of Center for Public Affairs Research College of Public Affairs and 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://unodatasciences.github.io/projects/va/</guid>
-      <description>Visual Analysis on Short Term Memory
-Project Description This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.
-Description of The Department of Psychology and Neuroscience The Department of Psychology and Neuroscience at the University of Colorado Boulder is to strive for excellence in our research, in our training of graduate students, and in our teaching of undergraduates.</description>
+      <description>Visual Analysis on Short Term Memory    Project Description  This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.This part is for the Description of the project.    Description of The Department of Psychology and Neuroscience The Department of Psychology and Neuroscience at the University of Colorado Boulder is to strive for excellence in our research, in our training of graduate students, and in our teaching of undergraduates.</description>
     </item>
     
   </channel>

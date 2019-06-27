@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Operations Researches on Data Sciences</title>
+    <title>Operations Researches on Home</title>
     <link>https://unodatasciences.github.io/operations-research/</link>
-    <description>Recent content in Operations Researches on Data Sciences</description>
+    <description>Recent content in Operations Researches on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 11 Sep 2018 22:33:52 -0500</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Tue, 11 Sep 2018 22:33:52 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/operations-research/operations_research/</guid>
-      <description>Introduction The department has several researchers in statistics and operations research. We plan to develop research problems in data science in collaboration with the local community. This will strengthen the academic research program and lay the foundation for a possible future doctorate in Data Science.
-Concentrations in Data Science The Department of Mathematics offers a concentration in Data Science for undergraduate students pursuing a BA or BS degree, as well as for graduate students pursuing a MS degree.</description>
+      <description>Introduction Operations Research is the application of advanced analytical methods to enable better decision making. A plethora of problems may be solved using Operations Research; among these are  determining the route a delivery truck should take in order to make all deliveries while traveling the fewest number of miles determining the best location for a new facility such as a fire station  scheduling airline flights and crew  determining the optimal distribution of bicycles in a bike sharing system.</description>
     </item>
     
   </channel>

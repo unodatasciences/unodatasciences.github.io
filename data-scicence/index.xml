@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data scicences on Data Sciences</title>
+    <title>Data scicences on Home</title>
     <link>https://unodatasciences.github.io/data-scicence/</link>
-    <description>Recent content in Data scicences on Data Sciences</description>
+    <description>Recent content in Data scicences on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 11 Sep 2018 22:33:13 -0500</lastBuildDate>
@@ -17,8 +17,7 @@
       <pubDate>Tue, 11 Sep 2018 22:33:13 -0500</pubDate>
       
       <guid>https://unodatasciences.github.io/data-scicence/data_science/</guid>
-      <description>What is Data Science? Data Science is the art and science of transforming raw data into deliverable data products in order to help businesses or government agencies make more informed decisions. The Concentration in Data Science consists of eight major components: Data Visualization, Scientific Methods, Statistical Modeling, Statistical Computing, Real-world Data Applications, Data Consulting, Data Research, and Data Technology.
-The Concentration in Data Science prepares students for a job as a Data Scientist, as well as providing a strong background for many other careers.</description>
+      <description>What is Data Science? Data Science is the art and science of transforming raw data into deliverable data products in order to help businesses or government agencies make more informed decisions. The Concentration in Data Science consists of eight major components: Data Visualization, Scientific Methods, Statistical Modeling, Statistical Computing, Real-world Data Applications, Data Consulting, Data Research, and Data Technology. The following is a brief description of each component and its relevance and importance to our program.</description>
     </item>
     
   </channel>
