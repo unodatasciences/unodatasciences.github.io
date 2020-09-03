@@ -1,226 +1,187 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://unodatasciences.github.io/direction-map/direction_map/</loc>
-    <lastmod>2018-10-12T07:36:10-05:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/projects/projects/</loc>
-    <lastmod>2018-10-12T07:36:10-05:00</lastmod>
+    <loc>/event/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/contact_us/contact_us/</loc>
-    <lastmod>2018-10-12T07:27:44-05:00</lastmod>
+    <loc>/event/event-1/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/services/data_modeling/</loc>
-    <lastmod>2018-10-12T07:27:44-05:00</lastmod>
+    <loc>/event/event-2/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/services/data_visualization/</loc>
-    <lastmod>2018-10-12T07:27:44-05:00</lastmod>
+    <loc>/event/event-3/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/services/data_wrangling/</loc>
-    <lastmod>2018-10-12T07:27:44-05:00</lastmod>
+    <loc>/project/ollas/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/services/services/</loc>
-    <lastmod>2018-10-12T07:27:44-05:00</lastmod>
+    <loc>/tags/advice/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/people/people/</loc>
-    <lastmod>2018-10-12T07:22:23-05:00</lastmod>
+    <loc>/tags/automation/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/about/about/</loc>
-    <lastmod>2018-10-12T07:03:33-05:00</lastmod>
+    <loc>/categories/automation-system/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/operations-research/operations_research/</loc>
-    <lastmod>2018-09-11T22:33:52-05:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/statistics/statics/</loc>
-    <lastmod>2018-09-11T22:33:28-05:00</lastmod>
+    <loc>/discipline/data-science/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/data-scicence/data_science/</loc>
-    <lastmod>2018-09-11T22:33:13-05:00</lastmod>
+    <loc>/tags/eco/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/projects/ollas/</loc>
+    <loc>/categories/eco-system/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/categories/about/</loc>
-    <lastmod>2018-10-12T07:03:33-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/tags/education/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/about/</loc>
-    <lastmod>2018-10-12T07:03:33-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/categories/education-system/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/categories/</loc>
-    <lastmod>2018-10-12T07:03:33-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/blog/blog-post-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/tags/contact-us/</loc>
-    <lastmod>2018-10-12T07:27:44-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/blog/blog-post-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/contact_us/</loc>
-    <lastmod>2018-10-12T07:27:44-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/blog/blog-post-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/categories/contact_us/</loc>
-    <lastmod>2018-10-12T07:27:44-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/project/insurance/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/tags/data/</loc>
-    <lastmod>2018-09-11T22:33:13-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/blog/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/tags/data-science/</loc>
-    <lastmod>2018-09-11T22:33:52-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/discipline/operations-research/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/data-scicence/</loc>
-    <lastmod>2018-09-11T22:33:13-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/discipline/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/categories/direction-map/</loc>
-    <lastmod>2018-10-12T07:36:10-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/project/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/direction-map/</loc>
-    <lastmod>2018-10-12T07:36:10-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/discipline/statistics/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/doc/</loc>
-    <priority>0</priority>
+    <loc>/tags/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/projects/hi/</loc>
+    <loc>/project/visual/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/</loc>
-    <lastmod>2018-10-12T07:36:10-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/tags/math-department/</loc>
-    <lastmod>2018-09-11T22:33:52-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/faculty/andrew-swift/</loc>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/operations-research/</loc>
-    <lastmod>2018-09-11T22:33:52-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/author/</loc>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/people/</loc>
-    <lastmod>2018-10-12T07:22:23-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/faculty/betty-love/</loc>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/projects/</loc>
-    <lastmod>2018-10-12T07:36:10-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/categories/projects/</loc>
-    <lastmod>2018-10-12T07:36:10-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/faculty/fabio-victor/</loc>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/tags/science/</loc>
-    <lastmod>2018-09-11T22:33:13-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/author/john-doe/</loc>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/services/</loc>
-    <lastmod>2018-10-12T07:27:44-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/faculty/mahbubul-majumder/</loc>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/categories/services/</loc>
-    <lastmod>2018-10-12T07:27:44-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/author/mark-dinn/</loc>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/tags/services/</loc>
-    <lastmod>2018-10-12T07:27:44-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/faculty/</loc>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/statistics/</loc>
-    <lastmod>2018-09-11T22:33:28-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/publication/</loc>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/tags/statistics/</loc>
-    <lastmod>2018-09-11T22:33:52-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/faculty/steve-from/</loc>
   </url>
   
   <url>
-    <loc>https://unodatasciences.github.io/tags/</loc>
-    <lastmod>2018-10-12T07:27:44-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://unodatasciences.github.io/projects/va/</loc>
+    <loc>/faculty/xiaoyue-cheng/</loc>
   </url>
   
 </urlset>

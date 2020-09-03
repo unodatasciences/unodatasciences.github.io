@@ -1,76 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Home</title>
-    <link>https://unodatasciences.github.io/tags/</link>
-    <description>Recent content in Tags on Home</description>
+    <title>Tags on Data and Decision Sciences at UNO</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Data and Decision Sciences at UNO</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 12 Oct 2018 07:27:44 -0500</lastBuildDate>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 Department of Mathematics, UNO</copyright>
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
     
-	<atom:link href="https://unodatasciences.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Contact Us</title>
-      <link>https://unodatasciences.github.io/tags/contact-us/</link>
-      <pubDate>Fri, 12 Oct 2018 07:27:44 -0500</pubDate>
+      <title>Advice</title>
+      <link>/tags/advice/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://unodatasciences.github.io/tags/contact-us/</guid>
+      <guid>/tags/advice/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Data</title>
-      <link>https://unodatasciences.github.io/tags/data/</link>
-      <pubDate>Tue, 11 Sep 2018 22:33:13 -0500</pubDate>
+      <title>Automation</title>
+      <link>/tags/automation/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://unodatasciences.github.io/tags/data/</guid>
+      <guid>/tags/automation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Data Science</title>
-      <link>https://unodatasciences.github.io/tags/data-science/</link>
-      <pubDate>Tue, 11 Sep 2018 22:33:52 -0500</pubDate>
+      <title>Eco</title>
+      <link>/tags/eco/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://unodatasciences.github.io/tags/data-science/</guid>
+      <guid>/tags/eco/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Math Department</title>
-      <link>https://unodatasciences.github.io/tags/math-department/</link>
-      <pubDate>Tue, 11 Sep 2018 22:33:52 -0500</pubDate>
+      <title>Education</title>
+      <link>/tags/education/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
       
-      <guid>https://unodatasciences.github.io/tags/math-department/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Science</title>
-      <link>https://unodatasciences.github.io/tags/science/</link>
-      <pubDate>Tue, 11 Sep 2018 22:33:13 -0500</pubDate>
-      
-      <guid>https://unodatasciences.github.io/tags/science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Services</title>
-      <link>https://unodatasciences.github.io/tags/services/</link>
-      <pubDate>Fri, 12 Oct 2018 07:27:44 -0500</pubDate>
-      
-      <guid>https://unodatasciences.github.io/tags/services/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistics</title>
-      <link>https://unodatasciences.github.io/tags/statistics/</link>
-      <pubDate>Tue, 11 Sep 2018 22:33:52 -0500</pubDate>
-      
-      <guid>https://unodatasciences.github.io/tags/statistics/</guid>
+      <guid>/tags/education/</guid>
       <description></description>
     </item>
     
