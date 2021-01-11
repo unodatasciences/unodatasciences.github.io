@@ -85,6 +85,15 @@
     </item>
     
     <item>
+      <title>First News</title>
+      <link>/news/news-1/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/news/news-1/</guid>
+      <description>The standard Lorem Ipsum passage, used since the 1500s Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
       <title>Health Insurance in Nebraska</title>
       <link>/project/insurance/</link>
       <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
@@ -118,24 +127,6 @@
       
       <guid>/project/visual/</guid>
       <description>Description of The Department of Psychology and Neuroscience The Department of Psychology and Neuroscience at the University of Colorado Boulder is to strive for excellence in our research, in our training of graduate students, and in our teaching of undergraduates.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/lab/industrial/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/lab/industrial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/lab/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/lab/research/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -175,6 +166,15 @@
     </item>
     
     <item>
+      <title>Industrial Projects</title>
+      <link>/lab/industrial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/lab/industrial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>John doe</title>
       <link>/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -202,12 +202,30 @@
     </item>
     
     <item>
+      <title>Research Projects</title>
+      <link>/lab/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/lab/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Steve From</title>
       <link>/faculty/steve-from/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/faculty/steve-from/</guid>
       <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Work with Us</title>
+      <link>/lab/work-with-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/lab/work-with-us/</guid>
+      <description></description>
     </item>
     
     <item>

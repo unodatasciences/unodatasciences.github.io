@@ -48,6 +48,11 @@
   </url>
   
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
@@ -93,12 +98,17 @@
   </url>
   
   <url>
+    <loc>/news/news-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/insurance/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>/news/</loc>
     <lastmod>2019-07-06T15:27:17+06:00</lastmod>
   </url>
   
@@ -133,14 +143,6 @@
   </url>
   
   <url>
-    <loc>/lab/industrial/</loc>
-  </url>
-  
-  <url>
-    <loc>/lab/research/</loc>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
   </url>
   
@@ -169,6 +171,10 @@
   </url>
   
   <url>
+    <loc>/lab/industrial/</loc>
+  </url>
+  
+  <url>
     <loc>/author/john-doe/</loc>
   </url>
   
@@ -189,7 +195,15 @@
   </url>
   
   <url>
+    <loc>/lab/research/</loc>
+  </url>
+  
+  <url>
     <loc>/faculty/steve-from/</loc>
+  </url>
+  
+  <url>
+    <loc>/lab/work-with-us/</loc>
   </url>
   
   <url>
