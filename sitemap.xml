@@ -133,6 +133,14 @@
   </url>
   
   <url>
+    <loc>/lab/industrial/</loc>
+  </url>
+  
+  <url>
+    <loc>/lab/research/</loc>
+  </url>
+  
+  <url>
     <loc>/about/</loc>
   </url>
   
@@ -149,6 +157,10 @@
   </url>
   
   <url>
+    <loc>/lab/community/</loc>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
   </url>
   
@@ -161,6 +173,10 @@
   </url>
   
   <url>
+    <loc>/lab/</loc>
+  </url>
+  
+  <url>
     <loc>/faculty/mahbubul-majumder/</loc>
   </url>
   
@@ -170,10 +186,6 @@
   
   <url>
     <loc>/faculty/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
   </url>
   
   <url>

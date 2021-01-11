@@ -6,7 +6,7 @@
     <description>Recent content on Data and Decision Sciences at UNO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 Department of Mathematics, UNO</copyright>
+    <copyright>Copyright &amp;copy; 2021 Data and Decision Sciences, UNO</copyright>
     <lastBuildDate>Sat, 09 Mar 2030 15:27:17 +0600</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -121,6 +121,24 @@
     </item>
     
     <item>
+      <title></title>
+      <link>/lab/industrial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/lab/industrial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/lab/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/lab/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Andrew W. Swift</title>
       <link>/faculty/andrew-swift/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -139,12 +157,21 @@
     </item>
     
     <item>
+      <title>Community Projects</title>
+      <link>/lab/community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/lab/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fabio Torres Vitor</title>
       <link>/faculty/fabio-victor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/faculty/fabio-victor/</guid>
-      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description>Academic and Professional Experience Fabio joined the Data and Decision Sciences Lab and the department of Mathematics at the University of Nebraska at Omaha as an Assistant Professor in 2019.</description>
     </item>
     
     <item>
@@ -172,15 +199,6 @@
       
       <guid>/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/</guid>
-      <description>Mahbubul Majumder, Xiaoyue Cheng. Focusing on the needs: Experiences of Developing a Data Science Program.</description>
     </item>
     
     <item>

@@ -391,9 +391,6 @@ textarea.form-control {
     .pagination .page-item .page-link {
       color: #5c5c77; }
 
-.content * {
-  margin-bottom: 20px; }
-
 .content a {
   text-decoration: underline; }
 
@@ -455,7 +452,14 @@ textarea.form-control {
 .faculty-thumb-sm {
   height: 85px;
   width: 85px;
-  object-fit: cover; }
+  object-fit: cover;
+  object-position: top; }
+
+.faculty-thumb-xs {
+  height: 40px;
+  width: 40px;
+  object-fit: cover;
+  object-position: top; }
 
 .top-header {
   font-size: 12px;
@@ -625,6 +629,31 @@ link:focus,
       border: 0;
       outline: 0; }
 
+/* about us */
+.about-block {
+  margin-top: -100px;
+  padding-left: 70px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-right: 30%; }
+  @media (max-width: 1400px) {
+    .about-block {
+      padding-right: 10%; } }
+  @media (max-width: 1200px) {
+    .about-block {
+      padding-right: 50px;
+      padding-left: 50px;
+      padding-top: 30px;
+      padding-bottom: 30px; }
+      .about-block h3 {
+        font-size: 20px; } }
+  @media (max-width: 991px) {
+    .about-block {
+      margin-top: 0;
+      padding: 50px; }
+      .about-block h3 {
+        font-size: 25px; } }
+/* /about us */
 /* banner feature */
 .feature-icon {
   font-size: 50px;
@@ -632,26 +661,32 @@ link:focus,
   display: inline-block; }
 
 .feature-blocks {
-  margin-top: -100px;
-  padding-left: 70px;
-  padding-top: 80px;
-  padding-right: 30%; }
-  @media (max-width: 1400px) {
-    .feature-blocks {
-      padding-right: 10%; } }
+  padding-top: 40px;
+  padding-bottom: 40px; }
   @media (max-width: 1200px) {
     .feature-blocks {
-      padding-right: 50px;
-      padding-left: 50px;
-      padding-top: 30px; }
+      padding-top: 30px;
+      padding-bottom: 30px; }
       .feature-blocks h3 {
         font-size: 20px; } }
   @media (max-width: 991px) {
     .feature-blocks {
       margin-top: 0;
-      padding: 50px; }
+      padding: 50px 0; }
       .feature-blocks h3 {
         font-size: 25px; } }
+@media (max-width: 575px) {
+  .feature-block {
+    margin-bottom: 50px; }
+    .feature-block:last-of-type {
+      margin-bottom: 0; } }
+
+.feature-block__content {
+  padding: 30px;
+  transition: transform 0.2s; }
+  .feature-block__content:hover {
+    transform: scale(1.1); }
+
 /* /banner feature */
 /* discipline */
 .card-btn {
@@ -781,13 +816,22 @@ link:focus,
 .bg-footer {
   background-color: #182b45; }
 
+.logo__image--header {
+  max-width: 90%; }
+
 .logo-footer {
+  max-width: 80%;
   margin-top: -20px;
   display: inline-block; }
 
+@media screen and (max-width: 767px) {
+  .header__navbar {
+    flex-wrap: nowrap;
+    padding: 20px 0 !important; } }
+
 .footer {
   border-color: #494a43 !important;
-  padding-top: 275px; }
+  padding-bottom: 30px; }
 
 /* /footer */
 .filter-controls li {
@@ -807,3 +851,32 @@ link:focus,
   .tag-list a:hover {
     background-color: #B60000;
     color: #fff; }
+
+.faculty-box {
+  padding: 5px 0; }
+
+.publication {
+  margin-bottom: 20px; }
+
+.publications__button {
+  border: 1px solid #B60000;
+  color: #B60000;
+  background: transparent;
+  padding: 15px;
+  float: right;
+  margin-bottom: 20px; }
+
+.data-science__accordion {
+  margin: 20px 0; }
+  .data-science__accordion button {
+    margin-bottom: 0;
+    padding: 15px 20px; }
+
+.data-science__image {
+  height: 150px;
+  width: 200px;
+  border-radius: 20px; }
+
+.student__picture {
+  height: 250px;
+  object-fit: cover; }
