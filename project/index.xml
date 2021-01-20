@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Projects on Data and Decision Sciences at UNO</title>
+    <link>/project/</link>
+    <description>Recent content in Our Projects on Data and Decision Sciences at UNO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 Data and Decision Sciences, UNO</copyright>
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Demographic Portrait of Latino Population Growth and Past and Potential Political Engagement</title>
+      <link>/project/ollas/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/project/ollas/</guid>
+      <description>OLLAS Description The Office of Latino/Latin American Studies (OLLAS) was created to ensure that UNO students and the community have the education and the skills needed to understand the connection of Latinos, Latin America and some of the most important issues of our times.</description>
+    </item>
+    
+    <item>
+      <title>Health Insurance in Nebraska</title>
+      <link>/project/insurance/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/project/insurance/</guid>
+      <description>Description of Center for Public Affairs Research College of Public Affairs and Community Service (CPAR) is the lead agency for the Nebraska State Data Center, as a result, we have access to and the ability to organize and interpret Census data for your particular needs.</description>
+    </item>
+    
+    <item>
+      <title>Visual Analysis on Short Term Memory</title>
+      <link>/project/visual/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>/project/visual/</guid>
+      <description>Description of The Department of Psychology and Neuroscience The Department of Psychology and Neuroscience at the University of Colorado Boulder is to strive for excellence in our research, in our training of graduate students, and in our teaching of undergraduates.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Faculty on Data and Decision Sciences at UNO</title>
+    <link>/faculty/</link>
+    <description>Recent content in Our Faculty on Data and Decision Sciences at UNO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2021 Data and Decision Sciences, UNO</copyright>
+    
+	<atom:link href="/faculty/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Andrew W. Swift</title>
+      <link>/faculty/andrew-swift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/faculty/andrew-swift/</guid>
+      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Betty N. Love</title>
+      <link>/faculty/betty-love/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/faculty/betty-love/</guid>
+      <description>Academic and Professional Experience Betty is a Professor in the Mathematical and Data Sciences Department at the University of Nebraska at Omaha.</description>
+    </item>
+    
+    <item>
+      <title>Fabio Torres Vitor</title>
+      <link>/faculty/fabio-victor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/faculty/fabio-victor/</guid>
+      <description>Academic and Professional Experience Fabio joined the Data and Decision Sciences Lab and the department of Mathematics at the University of Nebraska at Omaha as an Assistant Professor in 2019.</description>
+    </item>
+    
+    <item>
+      <title>Mahbubul Majumder</title>
+      <link>/faculty/mahbubul-majumder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/faculty/mahbubul-majumder/</guid>
+      <description>About Me Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Steve From</title>
+      <link>/faculty/steve-from/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/faculty/steve-from/</guid>
+      <description>Academic and Professional Experience Steven joined the department of Mathematics at the University of Nebraska at Omaha in 1986 as an Assistant Professor.</description>
+    </item>
+    
+    <item>
+      <title>Xiaoyue Cheng</title>
+      <link>/faculty/xiaoyue-cheng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/faculty/xiaoyue-cheng/</guid>
+      <description>Academic and Professional Experience Xiaoyue Cheng is an Assistant Professor in the Department of Mathematics at the University of Nebraska at Omaha.</description>
+    </item>
+    
+  </channel>
+</rss>
